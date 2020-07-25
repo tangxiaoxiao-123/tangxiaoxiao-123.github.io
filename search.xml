@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>杀死一只知更鸟观后感</title>
-    <url>/2018/03/01/lalalal/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>书评</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一篇博客文章</title>
     <url>/2020/07/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>​        Hello World！欢迎来到tangxiaoxiao的博客世界，请多多关照！</p>
@@ -22,5 +11,30 @@ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)</script><figure class="high
       <categories>
         <category>随笔</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Qt小项目-猜数字游戏</title>
+    <url>/2020/07/24/Qt%E5%B0%8F%E9%A1%B9%E7%9B%AE-%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<hr>
+<p>环境：Qt5</p>
+<p>主要知识点：常用控件的使用；信号与槽；定时器的使用等等</p>
+<a id="more"></a>
+<p>实现效果：</p>
+<ul>
+<li>进入游戏开始计时，游戏过程中显示剩余时间；</li>
+<li>随机生成数字，范围在1000~9999；</li>
+<li>输入数字后会显示相关内容，检测不能输入以0开头的数，输入4位数后自动检测答案，除此之外，按键设置了删除功能、正确结果显示；</li>
+<li>猜测正确则成功，弹出图片；</li>
+<li>时间超时还没有猜对，则失败；</li>
+<li>同时游戏结束后设置了继续游戏和退出游戏的选项；</li>
+</ul>
+<hr>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Qt,C++</tag>
+      </tags>
   </entry>
 </search>
